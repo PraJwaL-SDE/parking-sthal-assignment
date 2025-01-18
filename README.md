@@ -27,9 +27,14 @@ This app helps managers monitor tasks assigned to employees, providing real-time
 
 ## Screenshot
 
-![Task List Screenshot](ss/1.jpg)
-![Task Details Screenshot](ss/2.jpg)
-![Task Creator Screenshot](ss/3.jpg)
+<div style="display: flex; justify-content: space-around;">
+
+  <img src="ss/1.jpg" alt="Task List Screenshot" width="200">
+  <img src="ss/2.jpg" alt="Task Details Screenshot" width="200">
+  <img src="ss/3.jpg" alt="Task Creator Screenshot" width="200">
+
+</div>
+
 ---
 
 
