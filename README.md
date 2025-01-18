@@ -25,7 +25,13 @@ Follow these steps to run the Flutter app on your local machine:
 
 This app helps managers monitor tasks assigned to employees, providing real-time updates and efficient task management.
 
+## Screenshot
+
+![Task List Screenshot](ss/1.jpg)
+![Task Details Screenshot](ss/2.jpg)
+![Task Creator Screenshot](ss/3.jpg)
 ---
+
 
 ## Features
 
